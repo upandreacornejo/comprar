@@ -18,7 +18,7 @@
 <br>
 <br>
 <br> 
-<h5><a href="proyecto.html" target="_self" style="
+<h5><a href="https://upandreacornejo.github.io/proyecto/" target="_self" style="
     font-size: x-large;
     font-family: fantasy;
     color: rgb(95 7 68);
