@@ -4,14 +4,6 @@
     FONT-FAMILY: 'Google Sans';
     TEXT-ALIGN: center;
 "><head>
-        <title style="
-"></title>
-    </head>
-
-    <body>
-        <h1 style="
-    FONT-SIZE: -webkit-xxx-large;
-">GREEN SALE</h1>
         <h2 style="FONT-SIZE: smaller;">PLANTAS HERMOSAS Y A BUEN PRECIO</h2>
 
 <h3>GRACIAS POR COMPRAR CON NOSOTROS</h3>
